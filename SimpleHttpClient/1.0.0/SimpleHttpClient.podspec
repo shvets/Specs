@@ -1,4 +1,4 @@
-swift_version = File.new('.swift-version').read
+#swift_version = File.new('.swift-version').read
 
 Pod::Spec.new do |s|
   s.swift_version = "5.0"
